@@ -7,5 +7,5 @@ require 'oauthio/access_token'
 require 'oauthio/client'
 require 'oauthio/strategy/auth_code'
 require 'oauthio/providers/facebook'
-
-
+require 'oauthio/providers/google'
+require 'oauthio/providers/linkedin'
